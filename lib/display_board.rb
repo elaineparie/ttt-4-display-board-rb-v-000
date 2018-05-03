@@ -6,4 +6,3 @@ moves = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 def display_board moves
   puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
 end
-
